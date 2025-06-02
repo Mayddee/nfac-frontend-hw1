@@ -34,6 +34,7 @@ npm run build
 
 ## 🛠 Tech Stack
 
+
 - **Vite** – Lightning-fast build tool and dev server
 - **React** – Modern UI library for building interactive components
 - **CSS** – Custom styles with responsive layout support

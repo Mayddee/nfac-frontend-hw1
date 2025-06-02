@@ -1,12 +1,40 @@
-# React + Vite
+# ⏱️ Motivational Mini Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal, responsive timer app built with **Vite + React** that helps you stay focused and motivated with random quotes and celebratory effects on completion.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [nfac-frontend-hw1.vercel.app](https://nfac-frontend-hw1-1r94z8nhu-mayddees-projects.vercel.app)
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Countdown timer (10, 20, 30 sec options)
+- Name saving and tracking completion count
+- Random motivational quote display
+- Fireworks and sound celebration when timer completes
+- Responsive layout for desktop & mobile
+- Dynamic button behavior:
+  - `Try Again` appears after first success
+  - `Reset` hides when timer is at 0
+
+## 🚀 Getting Started
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/Mayddee/nfac-frontend-hw1.git
+
+# 2. Install dependencies
+npm install
+
+# 3. Run in development
+npm run dev
+
+# 4. Build for production
+npm run build
+
+## 🛠 Tech Stack
+
+- **Vite** – Lightning-fast build tool and dev server
+- **React** – Modern UI library for building interactive components
+- **CSS** – Custom styles with responsive layout support
+- **Fetch API** – For retrieving random motivational quotes from [dummyjson.com](https://dummyjson.com/)

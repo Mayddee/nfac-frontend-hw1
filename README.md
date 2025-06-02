@@ -19,25 +19,31 @@ A minimal, responsive timer app built with **Vite + React** that helps you stay 
 
 ## 🚀 Getting Started
 
+### 1. Clone the repo
 ```bash
-# 1. Clone the repo
 git clone https://github.com/Mayddee/nfac-frontend-hw1.git
+```
 
-# 2. Install dependencies
+### 2. Install dependencies
+```bash
 npm install
+```
 
-# 3. Run in development
+### 3. Run in development
+```bash
 npm run dev
+```
 
-# 4. Build for production
+### 4. Build for production
+```bash
 npm run build
+```
+
+---
 
 ## 🛠 Tech Stack
-Vite – Lightning-fast build tool and dev server
 
-React – Modern UI library for building interactive components
-
-CSS – Custom styles with responsive layout support
-
-Fetch API – For retrieving random motivational quotes from dummyjson.com
-
+- **Vite** – Lightning-fast build tool and dev server  
+- **React** – Modern UI library for building interactive components  
+- **CSS** – Custom styles with responsive layout support  
+- **Fetch API** – For retrieving random motivational quotes from [dummyjson.com](https://dummyjson.com/)

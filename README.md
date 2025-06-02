@@ -4,7 +4,7 @@ A minimal, responsive timer app built with **Vite + React** that helps you stay 
 
 ## 🔗 Live Demo
 
-👉 [nfac-frontend-hw1.vercel.app](https://nfac-frontend-hw1-1r94z8nhu-mayddees-projects.vercel.app)
+👉 [nfac-frontend-hw1.vercel.app](https://nfac-frontend-hw1.vercel.app))
 
 ## ✨ Features
 

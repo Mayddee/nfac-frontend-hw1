@@ -33,9 +33,11 @@ npm run dev
 npm run build
 
 ## 🛠 Tech Stack
+Vite – Lightning-fast build tool and dev server
 
+React – Modern UI library for building interactive components
 
-- **Vite** – Lightning-fast build tool and dev server
-- **React** – Modern UI library for building interactive components
-- **CSS** – Custom styles with responsive layout support
-- **Fetch API** – For retrieving random motivational quotes from [dummyjson.com](https://dummyjson.com/)
+CSS – Custom styles with responsive layout support
+
+Fetch API – For retrieving random motivational quotes from dummyjson.com
+
